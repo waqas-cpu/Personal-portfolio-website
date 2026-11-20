@@ -1,0 +1,28 @@
+# Dependencies
+node_modules/
+
+# Next.js
+.next/
+out/
+
+# Testing & build artifacts
+coverage/
+*.tsbuildinfo
+next-env.d.ts
+
+# Environment files (keep safe examples only)
+.env*
+!.env.example
+
+# Vercel local link metadata
+.vercel/
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+
+# Local source brief and unoptimized media assets
+PERSONAL_PORTFOLIO_CONTEXT.md
+PERSONAL_PORTFOLIO_MASTER_PROMPT.md
+ChatGPT Image Aug 15, 2026, 09_04_23 PM.png
+WhatsApp Image 2026-11-20 at 2.45.22 PM.jpeg
